@@ -27,3 +27,10 @@ ZCZC W03 250 L13 Assignment #03
 ZCZC W03 60 L32 YouTube: watching OS related topics, etc.
 ZCZC W03 150 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 120 L05 Quiz related including studying
+
+ZCZC W04 60 L00 General, etc.
+ZCZC W04 100 L01 SCELE/Discord related
+ZCZC W04 250 L14 Assignment #04
+ZCZC W04 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W04 150 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 120 L05 Quiz related including studying
